@@ -22,7 +22,7 @@
       "gptPrompt": "",
       "heroTitle": "CrocoReel Casino",
       "heroSubtitle": "Elke klik een kans op winst",
-      "heroBadge": "SpinKong – Ontketen de Jackpot",
+      "heroBadge": "CrocoReel – Ontketen de Jackpot",
       "ctaText": "PAK WELKOMSBONUS NU",
       "tagline": "Tot 1000 gratis spins en 10% wekelijkse cashback",
       "heroImage": "/uploads/d74b4992ab8257e7bbcdad8940659149.webp",
@@ -106,7 +106,7 @@
       "seo_description": "Speel de beste gokkasten en live tafels bij CrocoReel Casino! Geniet van een welkomstbonus tot 1000 gratis spins en speel direct via je mobiel.",
       "html_head": "<link rel=\"canonical\" href=\"https://crocoreel.co.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://crocoreel.co.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://crocoreel.co.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"CrocoReel Casino Online – Top Slots & Live Dealer NL\">\n<meta property=\"og:description\" content=\"Speel de beste gokkasten en live tafels bij CrocoReel Casino! Geniet van een welkomstbonus tot 1000 gratis spins en speel direct via je mobiel.\">\n<meta property=\"og:url\" content=\"crocoreel.co.nl\">\n<meta property=\"og:site_name\" content= \"CrocoReel Casino\">\n",
       "faq_title": "FAQ – Veelgestelde Vragen",
-      "hero_badge": "SpinKong – Ontketen de Jackpot",
+      "hero_badge": "CrocoReel – Ontketen de Jackpot",
       "cta_text": "PAK WELKOMSBONUS NU"
     }
   ],
@@ -160,7 +160,7 @@
   "redirect_site": null,
   "hero_title": "CrocoReel Casino",
   "hero_subtitle": "Elke klik een kans op winst",
-  "hero_badge": "SpinKong – Ontketen de Jackpot",
+  "hero_badge": "CrocoReel – Ontketen de Jackpot",
   "cta_text": "PAK WELKOMSBONUS NU",
   "tagline": "Tot 1000 gratis spins en 10% wekelijkse cashback",
   "features_list": null,
@@ -366,8 +366,8 @@
       "question": "Is het veilig om te spelen bij CrocoReel Casino?"
     }
   ],
-  "_generated_at": "2026-09-16T10:25:49.913Z",
+  "_generated_at": "2026-09-16T11:51:27.885Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-16T10:25:50.514Z",
-  "_deploy_trigger": "7xjdhd"
+  "_last_deploy": "2026-09-16T11:51:28.491Z",
+  "_deploy_trigger": "sulzfb"
 }
