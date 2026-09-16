@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://spinkong-casino.co.nl/sitemap.xml
+Sitemap: https://crocoreel.co.nl/sitemap.xml
