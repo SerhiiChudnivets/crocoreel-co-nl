@@ -37,57 +37,60 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": " Star Burst",
-          "Name": " Star Burst"
+          "logo": "/uploads/5e923f3177c25e9bb68a54abfcd14c8d.webp",
+          "name": "Chicken Road",
+          "Name": "Chicken Road",
+          "logo_alt": "Chicken Road"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "Lucky Jet",
-          "Name": "Lucky Jet"
+          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+          "name": " Dead or Alive",
+          "Name": " Dead or Alive",
+          "logo_alt": "Dead or Alive"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "Aviatrix",
-          "Name": "Aviatrix"
+          "logo": "/uploads/afe9c49b297c1aaec3e8520657ec00e9.webp",
+          "name": "3 Hot Chilli Peppers",
+          "Name": "3 Hot Chilli Peppers",
+          "logo_alt": "3HotChilliPeppers"
         },
         {
-          "link": "",
-          "logo": "",
-          "name": "Wild spin",
-          "Name": "Wild spin"
+          "link": "/play/",
+          "logo": "/uploads/34da3cdbdf9eef7f8027bf5bf5a86c8a.webp",
+          "name": "Buffalo King Megaways",
+          "Name": "Buffalo King Megaways",
+          "logo_alt": "Buffalo King Megaways"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
-          "name": "EERSTE STORTINGSBONUS 120% TOT €200 + 100 FS",
-          "Name": "EERSTE STORTINGSBONUS 120% TOT €200 + 100 FS",
-          "logo_alt": "Crypto Bonus"
+          "logo": "/uploads/c680fd598c4a22c2669e1eaee07a310b.webp",
+          "name": "Welkomstbonus: Tot 1.000 Gratis Spins",
+          "Name": "Welkomstbonus: Tot 1.000 Gratis Spins",
+          "logo_alt": "cashback bonus"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/639349a37cc6ac7b8e73501da737506d.webp",
-          "name": "EERSTE CRYPTO STORTING 150% TOT €1000",
-          "Name": "EERSTE CRYPTO STORTING 150% TOT €1000",
-          "logo_alt": "Weekly Bonus"
+          "logo": "/uploads/b4aae2a1416f6c7de83050e0ebf204c1.webp",
+          "name": "Wekelijkse Cashback: Ontvang 10% Terug",
+          "Name": "Wekelijkse Cashback: Ontvang 10% Terug"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
-          "name": "HIGH ROLLER TWEEDE STORTING 50% TOT €1500",
-          "Name": "HIGH ROLLER TWEEDE STORTING 50% TOT €1500",
+          "logo": "/uploads/5e2e87c3b1cf5f5e112f42ca7a93a7f4.webp",
+          "name": "Reload Voordelen: Wekelijkse Matchbonussen",
+          "Name": "Reload Voordelen: Wekelijkse Matchbonussen",
           "logo_alt": "Welcome Bonus"
         },
         {
-          "link": "",
-          "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
-          "name": "ROYAL STORTING DEKKING 10% TOT €150",
-          "Name": "ROYAL STORTING DEKKING 10% TOT €150",
-          "logo_alt": "Sport Bonus"
+          "link": "/play/",
+          "logo": "/uploads/4387701e32901123b88b30c38d2695b0.webp",
+          "name": "Jackpot Frenzy: Mini, Epic en Super Jackpots",
+          "Name": "Jackpot Frenzy: Mini, Epic en Super Jackpots",
+          "logo_alt": "Weekly Bonus"
         }
       ],
       "faq": [],
@@ -273,69 +276,71 @@
     },
     {
       "link": "/play/",
-      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
-      "image_alt": "bitcoin"
+      "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
+      "image_alt": "mastercard"
     },
     {
       "link": "https://www.gambleaware.org/",
-      "image": "/uploads/7b5af286adade20c01b9aee4e0251787.webp",
-      "image_alt": "be gamble aware"
+      "image": "/uploads/b6fdfbf5c8cabee7abf849a532f6ca45.webp"
     }
   ],
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": " Star Burst",
-      "Name": " Star Burst"
+      "logo": "/uploads/5e923f3177c25e9bb68a54abfcd14c8d.webp",
+      "name": "Chicken Road",
+      "Name": "Chicken Road",
+      "logo_alt": "Chicken Road"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "Lucky Jet",
-      "Name": "Lucky Jet"
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": " Dead or Alive",
+      "Name": " Dead or Alive",
+      "logo_alt": "Dead or Alive"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "Aviatrix",
-      "Name": "Aviatrix"
+      "logo": "/uploads/afe9c49b297c1aaec3e8520657ec00e9.webp",
+      "name": "3 Hot Chilli Peppers",
+      "Name": "3 Hot Chilli Peppers",
+      "logo_alt": "3HotChilliPeppers"
     },
     {
-      "link": "",
-      "logo": "",
-      "name": "Wild spin",
-      "Name": "Wild spin"
+      "link": "/play/",
+      "logo": "/uploads/34da3cdbdf9eef7f8027bf5bf5a86c8a.webp",
+      "name": "Buffalo King Megaways",
+      "Name": "Buffalo King Megaways",
+      "logo_alt": "Buffalo King Megaways"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
-      "name": "EERSTE STORTINGSBONUS 120% TOT €200 + 100 FS",
-      "Name": "EERSTE STORTINGSBONUS 120% TOT €200 + 100 FS",
-      "logo_alt": "Crypto Bonus"
+      "logo": "/uploads/c680fd598c4a22c2669e1eaee07a310b.webp",
+      "name": "Welkomstbonus: Tot 1.000 Gratis Spins",
+      "Name": "Welkomstbonus: Tot 1.000 Gratis Spins",
+      "logo_alt": "cashback bonus"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/639349a37cc6ac7b8e73501da737506d.webp",
-      "name": "EERSTE CRYPTO STORTING 150% TOT €1000",
-      "Name": "EERSTE CRYPTO STORTING 150% TOT €1000",
-      "logo_alt": "Weekly Bonus"
+      "logo": "/uploads/b4aae2a1416f6c7de83050e0ebf204c1.webp",
+      "name": "Wekelijkse Cashback: Ontvang 10% Terug",
+      "Name": "Wekelijkse Cashback: Ontvang 10% Terug"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
-      "name": "HIGH ROLLER TWEEDE STORTING 50% TOT €1500",
-      "Name": "HIGH ROLLER TWEEDE STORTING 50% TOT €1500",
+      "logo": "/uploads/5e2e87c3b1cf5f5e112f42ca7a93a7f4.webp",
+      "name": "Reload Voordelen: Wekelijkse Matchbonussen",
+      "Name": "Reload Voordelen: Wekelijkse Matchbonussen",
       "logo_alt": "Welcome Bonus"
     },
     {
-      "link": "",
-      "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
-      "name": "ROYAL STORTING DEKKING 10% TOT €150",
-      "Name": "ROYAL STORTING DEKKING 10% TOT €150",
-      "logo_alt": "Sport Bonus"
+      "link": "/play/",
+      "logo": "/uploads/4387701e32901123b88b30c38d2695b0.webp",
+      "name": "Jackpot Frenzy: Mini, Epic en Super Jackpots",
+      "Name": "Jackpot Frenzy: Mini, Epic en Super Jackpots",
+      "logo_alt": "Weekly Bonus"
     }
   ],
   "Reviews": null,
@@ -361,8 +366,8 @@
       "question": "Is het veilig om te spelen bij CrocoReel Casino?"
     }
   ],
-  "_generated_at": "2026-09-16T10:09:14.673Z",
+  "_generated_at": "2026-09-16T10:25:28.975Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-16T10:09:15.228Z",
-  "_deploy_trigger": "sqq7hn"
+  "_last_deploy": "2026-09-16T10:25:29.776Z",
+  "_deploy_trigger": "lhs86j"
 }
