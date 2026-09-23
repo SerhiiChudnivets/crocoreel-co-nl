@@ -5,7 +5,7 @@
   "url": "crocoreel.co.nl",
   "template": "tupchiy",
   "language_code": "nl",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -94,9 +94,13 @@
         }
       ],
       "faq": [],
+      "globalSlotSetId": null,
+      "globalReviewSetId": null,
       "websiteId": 164,
       "createdAt": {},
       "updatedAt": {},
+      "globalSlotSet": null,
+      "globalReviewSet": null,
       "popup_text": "Tot 1000 gratis spins en 10% wekelijkse cashback",
       "popup_logo": "/uploads/fd81d14de1e970cdaee8b26055bfb258.webp",
       "hero_title": "CrocoReel Casino",
@@ -107,7 +111,12 @@
       "html_head": "<link rel=\"canonical\" href=\"https://crocoreel.co.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://crocoreel.co.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://crocoreel.co.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"CrocoReel Casino Online – Top Slots & Live Dealer NL\">\n<meta property=\"og:description\" content=\"Speel de beste gokkasten en live tafels bij CrocoReel Casino! Geniet van een welkomstbonus tot 1000 gratis spins en speel direct via je mobiel.\">\n<meta property=\"og:url\" content=\"crocoreel.co.nl\">\n<meta property=\"og:site_name\" content= \"CrocoReel Casino\">\n",
       "faq_title": "FAQ – Veelgestelde Vragen",
       "hero_badge": "CrocoReel – Ontketen de Jackpot",
-      "cta_text": "PAK WELKOMSBONUS NU"
+      "cta_text": "PAK WELKOMSBONUS NU",
+      "content_alt": "crocoreel banner",
+      "heroImage_alt": "crocoreel banner",
+      "popupLogo_alt": "crocoreel logo",
+      "popup_logo_alt": "crocoreel logo",
+      "hero_image_alt": "crocoreel banner"
     }
   ],
   "faq_schema": {
@@ -185,13 +194,16 @@
   "color_main_btn_text": "#000000",
   "cta_background": "#f8c888",
   "logo": {
-    "url": "/uploads/fd81d14de1e970cdaee8b26055bfb258.webp"
+    "url": "/uploads/fd81d14de1e970cdaee8b26055bfb258.webp",
+    "alt": "crocoreel logo"
   },
   "popup_logo": {
-    "url": "/uploads/fd81d14de1e970cdaee8b26055bfb258.webp"
+    "url": "/uploads/fd81d14de1e970cdaee8b26055bfb258.webp",
+    "alt": "crocoreel logo"
   },
   "main_background_img": {
-    "url": "/uploads/d74b4992ab8257e7bbcdad8940659149.webp"
+    "url": "/uploads/d74b4992ab8257e7bbcdad8940659149.webp",
+    "alt": "crocoreel banner"
   },
   "header_menu": [
     {
@@ -366,8 +378,9 @@
       "question": "Is het veilig om te spelen bij CrocoReel Casino?"
     }
   ],
-  "_generated_at": "2026-09-16T11:51:27.885Z",
+  "_generated_at": "2026-09-23T23:51:58.941Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-16T11:51:28.491Z",
-  "_deploy_trigger": "sulzfb"
+  "content_alt": "crocoreel banner",
+  "_last_deploy": "2026-09-23T23:51:59.505Z",
+  "_deploy_trigger": "qmb0xd"
 }
